@@ -22,7 +22,7 @@ const server = http.createServer((req, res) => {
       <body>
         <h1>About Page</h1>
         <p>This is the about page of our Project Gama</p>
-        <p>Gama is a mobile app application which is about the Aqua Leanyer</p>
+        <p>Gama is a mobile app application which is about the Aqua Leanyer </p>
         <p>Thank you for visiting!</p>
       </body>
       </html>
